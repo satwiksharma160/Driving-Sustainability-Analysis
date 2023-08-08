@@ -10,6 +10,6 @@ Python Librarires:
 Pandas(for data loading and analysis)
 Matplotlib(for data visualizations)
 
-Tool : Jupyter Notebook
+IDE : Jupyter Notebook
 
 
